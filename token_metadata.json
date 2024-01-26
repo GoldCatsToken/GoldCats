@@ -1,6 +1,5 @@
 {
   "name": "GoldCats",
   "symbol": "GCT",
-  "description": "Gold Cats Token",
-  "image": "https://raw.githubusercontent.com/GoldCatsToken/GoldCats/main/image.jpg"
+  "image": "https://token-creator-lac.vercel.app/token_image.png"
 }
